@@ -1,0 +1,36 @@
+# Model files
+*.pt
+*.bin
+*.gz
+
+# Generated files
+model_diff.pt
+proof.json
+metadata.json
+agent-memory.json
+
+# Logs and temp files
+logs/
+results/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp 

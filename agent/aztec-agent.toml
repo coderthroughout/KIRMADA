@@ -1,0 +1,25 @@
+[agent]
+wallet_address = "0xYourWalletAddressHere"
+agent_name = "aztec-agent-1"
+model = "distilbert-base-uncased"
+method = "lora"
+batch_size = 8
+reward_threshold = 10.0
+data_path = "./data/mock_data.csv"
+pinata_api_key = "f4545a3af6185deca569"
+pinata_secret_key = "10248cde2fff76a5ca689a30708c07b7a4e2ac62bd3c18ff9f67029d74e85ef7"
+
+[performance]
+max_retries = 3
+rate_limit_delay = 1
+timeout_seconds = 30
+max_file_size_mb = 500
+
+[logging]
+level = "INFO"
+log_to_file = true
+log_to_console = true
+
+[monitoring]
+enable_resource_monitoring = true
+enable_progress_tracking = true

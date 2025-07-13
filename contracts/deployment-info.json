@@ -1,0 +1,25 @@
+{
+  "network": "localhost",
+  "deployer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "contracts": {
+    "proofVerifier": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+    "aztecOrchestrator": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6",
+    "vault": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318"
+  },
+  "configuration": {
+    "verificationThresholds": {
+      "minTrainingLoss": "0.1",
+      "maxTrainingLoss": "10.0",
+      "minBatchSize": 1,
+      "maxBatchSize": 1024,
+      "minEpochs": 1,
+      "maxEpochs": 100
+    },
+    "verificationKeys": {
+      "trainingProofVK": "0x93d9d5f41249ef6d23b40f7a9c3403a570103a21f4b3057e13d7ea9931f00909",
+      "dataIntegrityVK": "0xab53300bf6b02a9bf1af8ec7bf10c26a4b8975397380b645ce34a4d865c24298",
+      "modelDiffVK": "0xa59d0a98c7ace3099a2f90bf75ec5fa27ca740c6bc555c3ee6e122ba0543288a"
+    }
+  },
+  "timestamp": "2025-07-13T02:48:48.849Z"
+}

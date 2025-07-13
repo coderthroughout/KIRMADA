@@ -1,0 +1,6 @@
+[package]
+name = "training_proof"
+type = "bin"
+authors = [""]
+
+[dependencies]

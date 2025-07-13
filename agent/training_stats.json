@@ -1,0 +1,29 @@
+{
+  "epoch": 1,
+  "loss": 0.0,
+  "model_diff": "model_diff.pt",
+  "duration_seconds": 2.7479145526885986,
+  "final_cpu_percent": 34.3,
+  "final_memory_percent": 84.6,
+  "dataset_size": 10,
+  "dataset_size_bytes": 326,
+  "feature_dim": 768,
+  "num_classes": 2,
+  "batch_size": 8,
+  "model_name": "distilbert-base-uncased",
+  "model_params_before": [
+    0.1,
+    0.2,
+    0.3,
+    0.4
+  ],
+  "model_params_after": [
+    -0.01664949208498001,
+    -0.06661227345466614,
+    -0.016328677535057068,
+    -0.042112406343221664
+  ],
+  "dataset_hash": 5995764580132906346,
+  "num_epochs": 1,
+  "seed": 42
+}

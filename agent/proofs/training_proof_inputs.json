@@ -1,0 +1,19 @@
+{
+  "dataset_hash": 123456789,
+  "model_params_before": [
+    0.1,
+    0.2,
+    0.3,
+    0.4
+  ],
+  "model_params_after": [
+    0.15,
+    0.25,
+    0.35,
+    0.45
+  ],
+  "batch_size": 32,
+  "num_epochs": 1,
+  "final_loss": 0.5,
+  "seed": 42
+}

@@ -1,0 +1,16 @@
+node_modules/
+.venv/
+__pycache__/
+.env
+.env.local
+dist/
+*.zkey
+build/
+agent/model_diff.pt.gz
+agent/model_diff.pt
+*.pt
+*.pt.gz
+agent/model_diff.pt.gz
+agent/model_diff.pt
+*.pt
+*.pt.gz

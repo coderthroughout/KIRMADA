@@ -1,0 +1,9 @@
+{
+  "model_diff_hash": "9f38beb7e2b3fe609fa0f047165e75ae4384416592ca9932a6753d2dfd5e3960",
+  "timestamp": "2025-07-13T06:47:45.384866+00:00",
+  "proof_type": "simulated",
+  "metadata": {
+    "model_diff": "model_diff.pt",
+    "note": "This is a simulated proof - ZK proofs not available"
+  }
+}

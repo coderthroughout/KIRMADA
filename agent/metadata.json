@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-07-13T06:47:49.521337+00:00",
+  "environment": "Windows",
+  "capabilities": {
+    "environment": "Windows",
+    "noir_available": false,
+    "zk_proofs_enabled": false,
+    "circuit_compilation_enabled": false,
+    "fallback_mode": true
+  },
+  "files": {
+    "model_diff": "bafybeib9f38beb7e2b3fe609fa0f047165e75ae4384416592ca99",
+    "proof": "Qma3SH27U7BCVrYkv4eu4oXM6fjkbgNPCVMUgWnf98tSxz"
+  }
+}

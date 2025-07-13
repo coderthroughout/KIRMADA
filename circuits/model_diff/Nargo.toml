@@ -1,0 +1,6 @@
+[package]
+name = "model_diff"
+type = "bin"
+authors = ["Aztec Protocol"]
+
+[dependencies] 
